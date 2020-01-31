@@ -1,7 +1,7 @@
 ---
 title: 'Jornalismo: O preço'
 ---
-
+<div style="text-align: justify">
 ### A idéia da existência de um jornalismo completamente neutro é impossível, as pessoas carregam suas individualidades consigo, suas opiniões, não são autômatos sem emoções.
 
 É lamentável ver como o jornalismo se tornou algo quase "criminalizado", como dizia o escritor Joseph Campbell: _"Compreender que há outros pontos de vista é o início da sabedoria."_ E contemporaneamente é difícil encontrar alguém que possa compreender essa frase com clareza, não apenas isso, como parece que menos e menos as pessoas podem compreende-la. Não sei se isso é **fruto do extremismo político que assombra nossa sociedade sem lógica**, ou se é uma afronta ao próprio jornalismo que mesmo em tentativa de ser neutro, o jornalista ainda é visto com maus olhos, como se estívesse tomando lados, esse é o preço da neutralidade?
