@@ -1,5 +1,6 @@
 ---
 title: 'Jornalismo: O preço'
+comments: true
 ---
 
 ### A idéia da existência de um jornalismo completamente neutro é impossível, as pessoas carregam suas individualidades consigo, suas opiniões, não são autômatos sem emoções.
