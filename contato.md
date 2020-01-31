@@ -1,5 +1,6 @@
 ---
 title: Contato
+permalink: /contato/
 ---
 
 <html>
