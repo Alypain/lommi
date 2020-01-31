@@ -7,6 +7,7 @@ baseurl: ''
 url: lommi.studio
 twitter_username: '@enzo_marcell'
 github_username: alypain
+permalink: pretty
 gem:
   - jekyll-admin
 theme: minima
