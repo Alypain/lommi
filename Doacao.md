@@ -13,7 +13,10 @@ permalink: /doacao/
 </form><p>
 <p>
 <p>
+
 ## Ou use o QR Code abaixo:
 
-<P> ![QRCode](/assets/QRCodeDonate.png)
+<P>
+
+![QRCode](/assets/QRCodeDonate.png)
 
