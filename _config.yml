@@ -8,6 +8,12 @@ url: lommi.studio
 twitter_username: '@enzo_marcell'
 github_username: alypain
 permalink: pretty
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: lommi
+
 gem:
   - jekyll-admin
 theme: minima
