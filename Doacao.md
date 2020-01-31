@@ -3,8 +3,8 @@ layout: page
 title: Doação
 permalink: /doacao/
 ---
-## Doe clicando no botão abaixo:
-
+### Doe clicando no botão abaixo:
+<html>
 <p><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="FJ45H25685R32" />
@@ -13,10 +13,9 @@ permalink: /doacao/
 </form><p>
 <p>
 <p>
-
-## Ou use o QR Code abaixo:
-
-<P>
+<p>
+</html>
+### Ou use o QR Code abaixo:
 
 ![QRCode](/assets/QRCodeDonate.png)
 
