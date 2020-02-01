@@ -1,5 +1,5 @@
 ---
-title: 'Jornalismo: O preço'
+title: 'Jornalismo: Qual o preço de uma posição política?'
 comments: true
 ---
 
