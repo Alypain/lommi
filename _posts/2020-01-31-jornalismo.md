@@ -3,9 +3,16 @@ title: 'Jornalismo: Qual o preço de uma posição política?'
 comments: true
 ---
 
+{:.center}
+![Balanca](/assets/balanca.jpg)
+<style>
+.center {
+  text-align: center;
+}
+</style>
 ### A idéia da existência de um jornalismo completamente neutro é impossível, as pessoas carregam suas individualidades consigo, suas opiniões, não são autômatos sem emoções.
 {: style="text-align: justify"}
-É lamentável ver como o jornalismo se tornou algo quase "criminalizado", como dizia o escritor Joseph Campbell: _"Compreender que há outros pontos de vista é o início da sabedoria."_ E contemporaneamente é difícil encontrar alguém que possa compreender essa frase com clareza, não apenas isso, como parece que menos e menos as pessoas podem compreende-la. Não sei se isso é **fruto do extremismo político que assombra nossa sociedade sem lógica**, ou se é uma afronta ao próprio jornalismo que mesmo em tentativa de ser neutro, o jornalista ainda é visto com maus olhos, como se estívesse tomando lados, esse é o preço da neutralidade?
+É lamentável ver como o jornalismo tornou-se "criminalizado", pois seguindo o pensamento de Joseph Campbell, escritor norte-americano de renome: _"Compreender que há outros pontos de vista é o início da sabedoria."_ contudo em plena era contemporânea é escasso encontrar pessoas que possam compreender a amplitude sociopolítica desta reflexão com clareza, Não sei se isso é uma decisão involuntária **fruto do extremismo político que assombra nossa sociedade ilógica** ou afronta inconsciente ao próprio jornalismo que mesmo em tentativa de ser neutro, ainda é visto com ambiguidade e falta de compreensão partidária, recebendo ataques bilaterais ao invés de promover debates instigando a real reflexão política. Esse é o preço da neutralidade, a pura essência da alienação coletiva.
 {: style="text-align: justify"}
 #### Me assusta pensar que logo farei parte dessa categoria, mas talvez isso nunca mude.
 {: style="text-align: justify"}
@@ -14,3 +21,5 @@ Não apenas jornalistas carregam a má reputação de estar tomando lados, como 
 Hoje, o jornalismo é uma das profissões onde a ONU toma planos de ação para protege-la, até porquê não apenas isso é violência sem sentido, como são ataques a democracia e liberdade de imprensa, de acordo Comitê de Proteção a Jornalistas(CPJ), o Brasil carrega a décima posição no Índice Global de Impunidade a Crimes contra Jornalistas, se as pessoas não mudarem a forma como vêem a profissão, jamais vai haver mudança e num país democrático como o nosso, o Governo atual se mostrar contra a categoria, e nosso presidente se tornar o motivo do aumento de ataque a jornalistas, parece uma piada de mau gosto.
 {: style="text-align: justify"}
 #### Espero que as mudanças cheguem logo, antes que seja tarde demais.
+
+##### Revisor: Ryan Paes
