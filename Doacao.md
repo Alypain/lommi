@@ -11,12 +11,13 @@ permalink: /doacao/
 <input type="image" class="donate-button" src="https://images.mixer.com/s3h7RJwexP1J1XqeBhnkdwDVaZIShulsYCzJVHDc8g6E/http://arteevida.org.br/wp-content/uploads/2018/01/Bot%C3%A3o-DOAR-Pay-Pal.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Faça doações com o botão do PayPal" />
 <img alt="" border="0" src="https://www.paypal.com/pt_BR/i/scr/pixel.gif" width="1" height="1" />
 </form>
+<style>
 img.donate-button {
 	width: 60%;
 	max-width: 100px;
 	height: auto;
 }
-
+</style>
 ### Ou use o QR Code abaixo:
 
 ![QRCode](/assets/QRCodeDonate.png)
